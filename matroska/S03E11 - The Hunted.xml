@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <ChapterAtom>
+      <ChapterUID>1</ChapterUID>
+      <ChapterTimeStart>00:00:00:000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:28:791</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 1</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2</ChapterUID>
+      <ChapterTimeStart>00:03:28:791</ChapterTimeStart>
+      <ChapterTimeEnd>00:05:15:357</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Intro</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3</ChapterUID>
+      <ChapterTimeStart>00:05:15:357</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:56:513</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 2</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4</ChapterUID>
+      <ChapterTimeStart>00:09:56:513</ChapterTimeStart>
+      <ChapterTimeEnd>00:18:08:129</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 3</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5</ChapterUID>
+      <ChapterTimeStart>00:18:08:129</ChapterTimeStart>
+      <ChapterTimeEnd>00:26:37:513</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 4</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>6</ChapterUID>
+      <ChapterTimeStart>00:26:37:513</ChapterTimeStart>
+      <ChapterTimeEnd>00:37:17:110</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 5</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7</ChapterUID>
+      <ChapterTimeStart>00:37:17:110</ChapterTimeStart>
+      <ChapterTimeEnd>00:44:39:177</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 6</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8</ChapterUID>
+      <ChapterTimeStart>00:44:39:177</ChapterTimeStart>
+      <ChapterTimeEnd>00:45:29:769</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Outro</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
