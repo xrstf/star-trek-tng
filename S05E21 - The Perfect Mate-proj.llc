@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E21 - The Perfect Mate.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 177.921089,
+      name: 'Chapter 1',
+    },
+    {
+      start: 177.921089,
+      end: 283.784,
+      name: 'Intro',
+    },
+    {
+      start: 283.784,
+      end: 589.881,
+      name: 'Chapter 2',
+    },
+    {
+      start: 589.881,
+      end: 1172.505,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1172.505,
+      end: 1669.418,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1669.418,
+      end: 2242.157,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2242.157,
+      end: 2684.974,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2684.974,
+      end: 2734.983,
+      name: 'Outro',
+    },
+  ],
+}

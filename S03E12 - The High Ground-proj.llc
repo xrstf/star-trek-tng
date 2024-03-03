@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E12 - The High Ground.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 203.803888,
+      name: 'Chapter 1',
+    },
+    {
+      start: 203.803888,
+      end: 310.811,
+      name: 'Intro',
+    },
+    {
+      start: 310.811,
+      end: 756.839,
+      name: 'Chapter 2',
+    },
+    {
+      start: 756.839,
+      end: 1314.688,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1314.688,
+      end: 1812.311,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1812.311,
+      end: 2205.704,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2205.704,
+      end: 2683.848,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.848,
+      end: 2733.815,
+      name: 'Outro',
+    },
+  ],
+}

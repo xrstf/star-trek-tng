@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E08 - A Fistful of Datas.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 275.326493,
+      name: 'Chapter 1',
+    },
+    {
+      start: 275.326493,
+      end: 382.048,
+      name: 'Intro',
+    },
+    {
+      start: 382.048,
+      end: 965.715,
+      name: 'Chapter 2',
+    },
+    {
+      start: 965.715,
+      end: 1399.315,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1399.315,
+      end: 1739.071,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1739.071,
+      end: 2139.054,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2139.054,
+      end: 2672.837,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2672.837,
+      end: 2738.361,
+      name: 'Outro',
+    },
+  ],
+}

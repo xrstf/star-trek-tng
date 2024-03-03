@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E05 - Remember Me.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 282.911921,
+      name: 'Chapter 1',
+    },
+    {
+      start: 282.911921,
+      end: 389.306,
+      name: 'Intro',
+    },
+    {
+      start: 389.306,
+      end: 648.982,
+      name: 'Chapter 2',
+    },
+    {
+      start: 648.982,
+      end: 1123.956,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1123.956,
+      end: 1788.954,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1788.954,
+      end: 2257.589,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2257.589,
+      end: 2681.929,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.929,
+      end: 2731.854,
+      name: 'Outro',
+    },
+  ],
+}

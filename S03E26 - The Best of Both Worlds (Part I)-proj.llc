@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E26 - The Best of Both Worlds (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 82.155174,
+      name: 'Chapter 1',
+    },
+    {
+      start: 82.155174,
+      end: 188.855,
+      name: 'Intro',
+    },
+    {
+      start: 188.855,
+      end: 665.707,
+      name: 'Chapter 2',
+    },
+    {
+      start: 665.707,
+      end: 1122.496,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1122.496,
+      end: 1637.803,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1637.803,
+      end: 2132.756,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2132.756,
+      end: 2683.89,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.89,
+      end: 2734.816,
+      name: 'Outro',
+    },
+  ],
+}

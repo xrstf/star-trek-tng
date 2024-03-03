@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E19 - Coming of Age.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 134.19362,
+      name: 'Chapter 1',
+    },
+    {
+      start: 134.19362,
+      end: 235.819,
+      name: 'Intro',
+    },
+    {
+      start: 235.819,
+      end: 587.212,
+      name: 'Chapter 2',
+    },
+    {
+      start: 587.212,
+      end: 1145.436,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1145.436,
+      end: 1626.834,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1626.834,
+      end: 2010.175,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2010.175,
+      end: 2679.552,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.552,
+      end: 2728.81,
+      name: 'Outro',
+    },
+  ],
+}

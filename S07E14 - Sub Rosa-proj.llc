@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E14 - Sub Rosa.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 100.412272,
+      name: 'Chapter 1',
+    },
+    {
+      start: 100.412272,
+      end: 206.206,
+      name: 'Intro',
+    },
+    {
+      start: 206.206,
+      end: 809.976,
+      name: 'Chapter 2',
+    },
+    {
+      start: 809.976,
+      end: 1096.304,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1096.304,
+      end: 1557.181,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1557.181,
+      end: 1930.804,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1930.804,
+      end: 2660.032,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2660.032,
+      end: 2710.25,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E22 - Symbiosis.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 253.56994216725766,
+      name: 'Chapter 1',
+    },
+    {
+      start: 253.56994216725766,
+      end: 355.981,
+      name: 'Intro',
+    },
+    {
+      start: 355.981,
+      end: 744.202,
+      name: 'Chapter 2',
+    },
+    {
+      start: 744.202,
+      end: 1249.582,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1249.582,
+      end: 1760.425,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1760.425,
+      end: 2170.21,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2170.21,
+      end: 2681.262,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.262,
+      end: 2730.77,
+      name: 'Outro',
+    },
+  ],
+}

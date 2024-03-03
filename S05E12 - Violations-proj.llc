@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E12 - Violations.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 228.93704166666666,
+      name: 'Chapter 1',
+    },
+    {
+      start: 228.93704166666666,
+      end: 333.333,
+      name: 'Intro',
+    },
+    {
+      start: 333.333,
+      end: 820.987,
+      name: 'Chapter 2',
+    },
+    {
+      start: 820.987,
+      end: 1262.595,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1262.595,
+      end: 1688.061,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1688.061,
+      end: 2265.597,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2265.597,
+      end: 2680.136,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.136,
+      end: 2730.27,
+      name: 'Outro',
+    },
+  ],
+}

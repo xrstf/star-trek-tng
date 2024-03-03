@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E08 - Attached.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 179.59608333333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 179.59608333333333,
+      end: 283.784,
+      name: 'Intro',
+    },
+    {
+      start: 283.784,
+      end: 587.629,
+      name: 'Chapter 2',
+    },
+    {
+      start: 587.629,
+      end: 867.075,
+      name: 'Chapter 3',
+    },
+    {
+      start: 867.075,
+      end: 1408.157,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1408.157,
+      end: 2040.33,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2040.33,
+      end: 2641.806,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2641.806,
+      end: 2707.33,
+      name: 'Outro',
+    },
+  ],
+}

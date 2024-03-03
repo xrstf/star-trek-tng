@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E22 - Imaginary Friend.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 344.71937499999996,
+      name: 'Chapter 1',
+    },
+    {
+      start: 344.71937499999996,
+      end: 450.075,
+      name: 'Intro',
+    },
+    {
+      start: 450.075,
+      end: 674.591,
+      name: 'Chapter 2',
+    },
+    {
+      start: 674.591,
+      end: 1397.98,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1397.98,
+      end: 1814.438,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1814.438,
+      end: 2143.183,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2143.183,
+      end: 2685.141,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2685.141,
+      end: 2735.858,
+      name: 'Outro',
+    },
+  ],
+}

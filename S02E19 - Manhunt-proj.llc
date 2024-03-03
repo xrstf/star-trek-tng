@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E19 - Manhunt.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 205.03816666666665,
+      name: 'Chapter 1',
+    },
+    {
+      start: 205.03816666666665,
+      end: 301.885,
+      name: 'Intro',
+    },
+    {
+      start: 301.885,
+      end: 725.475,
+      name: 'Chapter 2',
+    },
+    {
+      start: 725.475,
+      end: 1298.506,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1298.506,
+      end: 1837.336,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1837.336,
+      end: 2152.942,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2152.942,
+      end: 2674.005,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2674.005,
+      end: 2724.806,
+      name: 'Outro',
+    },
+  ],
+}

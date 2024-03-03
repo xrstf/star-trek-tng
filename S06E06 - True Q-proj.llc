@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E06 - True Q.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 196.236399,
+      name: 'Chapter 1',
+    },
+    {
+      start: 196.236399,
+      end: 302.344,
+      name: 'Intro',
+    },
+    {
+      start: 302.344,
+      end: 548.048,
+      name: 'Chapter 2',
+    },
+    {
+      start: 548.048,
+      end: 1071.362,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1071.362,
+      end: 1695.444,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1695.444,
+      end: 2181.471,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2181.471,
+      end: 2688.436,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2688.436,
+      end: 2738.569,
+      name: 'Outro',
+    },
+  ],
+}

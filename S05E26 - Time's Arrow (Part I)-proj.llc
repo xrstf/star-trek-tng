@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: "S05E26 - Time's Arrow (Part I).mkv",
+  cutSegments: [
+    {
+      start: 0,
+      end: 132.701821,
+      name: 'Chapter 1',
+    },
+    {
+      start: 132.701821,
+      end: 237.112,
+      name: 'Intro',
+    },
+    {
+      start: 237.112,
+      end: 854.771,
+      name: 'Chapter 2',
+    },
+    {
+      start: 854.771,
+      end: 1136.51,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1136.51,
+      end: 1637.845,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1637.845,
+      end: 2048.672,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2048.672,
+      end: 2681.7621388266903,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.7621388266903,
+      end: 2732.605,
+      name: 'Outro',
+    },
+  ],
+}

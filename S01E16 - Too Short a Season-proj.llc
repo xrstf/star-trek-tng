@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E16 - Too Short a Season.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 182.58564160200822,
+      name: 'Chapter 1',
+    },
+    {
+      start: 182.58564160200822,
+      end: 285.619,
+      name: 'Intro',
+    },
+    {
+      start: 285.619,
+      end: 792.292,
+      name: 'Chapter 2',
+    },
+    {
+      start: 792.292,
+      end: 1418.667,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1418.667,
+      end: 1840.464,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1840.464,
+      end: 2217.424,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2217.424,
+      end: 2681.679,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.679,
+      end: 2731.187,
+      name: 'Outro',
+    },
+  ],
+}

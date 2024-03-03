@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E09 - The Measure of a Man.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 219.59437499999999,
+      name: 'Chapter 1',
+    },
+    {
+      start: 219.59437499999999,
+      end: 316.483,
+      name: 'Intro',
+    },
+    {
+      start: 316.483,
+      end: 663.246,
+      name: 'Chapter 2',
+    },
+    {
+      start: 663.246,
+      end: 1113.279,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1113.279,
+      end: 1481.397,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1481.397,
+      end: 1877.042,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1877.042,
+      end: 2683.306,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.306,
+      end: 2734.023,
+      name: 'Outro',
+    },
+  ],
+}

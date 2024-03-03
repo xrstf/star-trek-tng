@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E16 - Q Who.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 218.80191666666664,
+      name: 'Chapter 1',
+    },
+    {
+      start: 218.80191666666664,
+      end: 315.774,
+      name: 'Intro',
+    },
+    {
+      start: 315.774,
+      end: 709.918,
+      name: 'Chapter 2',
+    },
+    {
+      start: 709.918,
+      end: 1272.605,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1272.605,
+      end: 1870.619,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1870.619,
+      end: 2296.92,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2296.92,
+      end: 2662.743,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2662.743,
+      end: 2728.226,
+      name: 'Outro',
+    },
+  ],
+}

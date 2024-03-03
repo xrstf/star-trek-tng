@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E20 - Qpid.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 199.32412499999998,
+      name: 'Chapter 1',
+    },
+    {
+      start: 199.32412499999998,
+      end: 303.47,
+      name: 'Intro',
+    },
+    {
+      start: 303.47,
+      end: 755.797,
+      name: 'Chapter 2',
+    },
+    {
+      start: 755.797,
+      end: 1324.323,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1324.323,
+      end: 1774.231,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1774.231,
+      end: 2177.467,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2177.467,
+      end: 2680.72,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.72,
+      end: 2731.271,
+      name: 'Outro',
+    },
+  ],
+}

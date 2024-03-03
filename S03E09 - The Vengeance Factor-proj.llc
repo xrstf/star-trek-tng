@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E09 - The Vengeance Factor.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 100.005303,
+      name: 'Chapter 1',
+    },
+    {
+      start: 100.005303,
+      end: 206.957,
+      name: 'Intro',
+    },
+    {
+      start: 206.957,
+      end: 701.534,
+      name: 'Chapter 2',
+    },
+    {
+      start: 701.534,
+      end: 1034.367,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1034.367,
+      end: 1625.124,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1625.124,
+      end: 2287.452,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2287.452,
+      end: 2680.553,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.553,
+      end: 2731.229,
+      name: 'Outro',
+    },
+  ],
+}

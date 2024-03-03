@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E21 - Peak Performance.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 202.43289944996556,
+      name: 'Chapter 1',
+    },
+    {
+      start: 202.43289944996556,
+      end: 299.216,
+      name: 'Intro',
+    },
+    {
+      start: 299.216,
+      end: 674.674,
+      name: 'Chapter 2',
+    },
+    {
+      start: 674.674,
+      end: 1188.354,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1188.354,
+      end: 1678.719,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1678.719,
+      end: 2255.295,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2255.295,
+      end: 2678.926,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2678.926,
+      end: 2729.769,
+      name: 'Outro',
+    },
+  ],
+}

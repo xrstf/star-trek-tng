@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E21 - Frame of Mind.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 213.322523,
+      name: 'Chapter 1',
+    },
+    {
+      start: 213.322523,
+      end: 317.984,
+      name: 'Intro',
+    },
+    {
+      start: 317.984,
+      end: 730.772,
+      name: 'Chapter 2',
+    },
+    {
+      start: 730.772,
+      end: 1268.809,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1268.809,
+      end: 1626.25,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1626.25,
+      end: 2200.365,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2200.365,
+      end: 2659.282,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.282,
+      end: 2709.874,
+      name: 'Outro',
+    },
+  ],
+}

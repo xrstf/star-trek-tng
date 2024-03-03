@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E23 - Emergence.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 177.337967,
+      name: 'Chapter 1',
+    },
+    {
+      start: 177.337967,
+      end: 282.616,
+      name: 'Intro',
+    },
+    {
+      start: 282.616,
+      end: 560.769,
+      name: 'Chapter 2',
+    },
+    {
+      start: 560.769,
+      end: 1145.895,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1145.895,
+      end: 1679.761,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1679.761,
+      end: 2157.364,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2157.364,
+      end: 2640.096,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2640.096,
+      end: 2705.703,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E18 - Cause and Effect.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 49.758041666666664,
+      name: 'Chapter 1',
+    },
+    {
+      start: 49.758041666666664,
+      end: 154.154,
+      name: 'Intro',
+    },
+    {
+      start: 154.154,
+      end: 719.886,
+      name: 'Chapter 2',
+    },
+    {
+      start: 719.886,
+      end: 1224.265,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1224.265,
+      end: 1581.747,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1581.747,
+      end: 1964.129,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1964.129,
+      end: 2664.579,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2664.579,
+      end: 2729.811,
+      name: 'Outro',
+    },
+  ],
+}

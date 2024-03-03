@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E04 - Relics.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 265.922712,
+      name: 'Chapter 1',
+    },
+    {
+      start: 265.922712,
+      end: 372.289,
+      name: 'Intro',
+    },
+    {
+      start: 372.289,
+      end: 809.392,
+      name: 'Chapter 2',
+    },
+    {
+      start: 809.392,
+      end: 1198.239,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1198.239,
+      end: 1743.617,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1743.617,
+      end: 2084.708,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2084.708,
+      end: 2686.559,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2686.559,
+      end: 2736.943,
+      name: 'Outro',
+    },
+  ],
+}

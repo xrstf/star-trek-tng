@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E26 - The Neutral Zone.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 200.63280318084472,
+      name: 'Chapter 1',
+    },
+    {
+      start: 200.63280318084472,
+      end: 302.135,
+      name: 'Intro',
+    },
+    {
+      start: 302.135,
+      end: 723.181,
+      name: 'Chapter 2',
+    },
+    {
+      start: 723.181,
+      end: 1255.171,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1255.171,
+      end: 1903.902,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1903.902,
+      end: 2217.215,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2217.215,
+      end: 2684.015,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2684.015,
+      end: 2733.606,
+      name: 'Outro',
+    },
+  ],
+}

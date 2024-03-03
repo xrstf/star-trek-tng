@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E14 - Conundrum.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 332.923941,
+      name: 'Chapter 1',
+    },
+    {
+      start: 332.923941,
+      end: 437.729,
+      name: 'Intro',
+    },
+    {
+      start: 437.729,
+      end: 884.384,
+      name: 'Chapter 2',
+    },
+    {
+      start: 884.384,
+      end: 1338.504,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1338.504,
+      end: 1687.477,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1687.477,
+      end: 2321.319,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2321.319,
+      end: 2682.790669706469,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.790669706469,
+      end: 2733.356,
+      name: 'Outro',
+    },
+  ],
+}

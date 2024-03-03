@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: "S03E15 - Yesterday's Enterprise.mkv",
+  cutSegments: [
+    {
+      start: 0,
+      end: 236.921434,
+      name: 'Chapter 1',
+    },
+    {
+      start: 236.921434,
+      end: 343.426,
+      name: 'Intro',
+    },
+    {
+      start: 343.426,
+      end: 698.448,
+      name: 'Chapter 2',
+    },
+    {
+      start: 698.448,
+      end: 1110.86,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1110.86,
+      end: 1885.842,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1885.842,
+      end: 2342.507,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2342.507,
+      end: 2687.852,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2687.852,
+      end: 2738.236,
+      name: 'Outro',
+    },
+  ],
+}

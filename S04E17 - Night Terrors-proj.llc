@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E17 - Night Terrors.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 160.8273333333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 160.8273333333333,
+      end: 264.848,
+      name: 'Intro',
+    },
+    {
+      start: 264.848,
+      end: 568.234,
+      name: 'Chapter 2',
+    },
+    {
+      start: 568.234,
+      end: 978.311,
+      name: 'Chapter 3',
+    },
+    {
+      start: 978.311,
+      end: 1635.134,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1635.134,
+      end: 2014.888,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2014.888,
+      end: 2683.723,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.723,
+      end: 2734.065,
+      name: 'Outro',
+    },
+  ],
+}

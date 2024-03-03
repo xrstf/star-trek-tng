@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E01 - Redemption (Part II).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 349.05704166666663,
+      name: 'Chapter 1',
+    },
+    {
+      start: 349.05704166666663,
+      end: 453.495,
+      name: 'Intro',
+    },
+    {
+      start: 453.495,
+      end: 870.036,
+      name: 'Chapter 2',
+    },
+    {
+      start: 870.036,
+      end: 1216.132,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1216.132,
+      end: 1463.671,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1463.671,
+      end: 2020.352,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2020.352,
+      end: 2681.596,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.596,
+      end: 2731.938,
+      name: 'Outro',
+    },
+  ],
+}

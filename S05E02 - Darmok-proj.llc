@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E02 - Darmok.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 302.427125,
+      name: 'Chapter 1',
+    },
+    {
+      start: 302.427125,
+      end: 406.99,
+      name: 'Intro',
+    },
+    {
+      start: 406.99,
+      end: 849.474,
+      name: 'Chapter 2',
+    },
+    {
+      start: 849.474,
+      end: 1308.557,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1308.557,
+      end: 1678.135,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1678.135,
+      end: 2295.96,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2295.96,
+      end: 2686.726,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2686.726,
+      end: 2736.818,
+      name: 'Outro',
+    },
+  ],
+}

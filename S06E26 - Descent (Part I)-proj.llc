@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E26 - Descent (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 277.81920833333334,
+      name: 'Chapter 1',
+    },
+    {
+      start: 277.81920833333334,
+      end: 381.965,
+      name: 'Intro',
+    },
+    {
+      start: 381.965,
+      end: 553.887,
+      name: 'Chapter 2',
+    },
+    {
+      start: 553.887,
+      end: 1117.408,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1117.408,
+      end: 1504.878,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1504.878,
+      end: 2060.1,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2060.1,
+      end: 2640.388,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2640.388,
+      end: 2706.162,
+      name: 'Outro',
+    },
+  ],
+}

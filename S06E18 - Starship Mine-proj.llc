@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E18 - Starship Mine.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 354.856478,
+      name: 'Chapter 1',
+    },
+    {
+      start: 354.856478,
+      end: 460.919,
+      name: 'Intro',
+    },
+    {
+      start: 460.919,
+      end: 826.409,
+      name: 'Chapter 2',
+    },
+    {
+      start: 826.409,
+      end: 1208.541,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1208.541,
+      end: 1654.153,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1654.153,
+      end: 2189.813,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2189.813,
+      end: 2659.574,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.574,
+      end: 2709.832,
+      name: 'Outro',
+    },
+  ],
+}

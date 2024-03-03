@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E08 - Justice.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 149.16567529315734,
+      name: 'Chapter 1',
+    },
+    {
+      start: 149.16567529315734,
+      end: 252.335,
+      name: 'Intro',
+    },
+    {
+      start: 252.335,
+      end: 622.08,
+      name: 'Chapter 2',
+    },
+    {
+      start: 622.08,
+      end: 1157.657,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1157.657,
+      end: 1445.444,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1445.444,
+      end: 2150.231,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2150.231,
+      end: 2683.222,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.222,
+      end: 2733.189,
+      name: 'Outro',
+    },
+  ],
+}

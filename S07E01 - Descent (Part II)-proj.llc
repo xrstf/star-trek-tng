@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E01 - Descent (Part II).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 320.115756,
+      name: 'Chapter 1',
+    },
+    {
+      start: 320.115756,
+      end: 425.467,
+      name: 'Intro',
+    },
+    {
+      start: 425.467,
+      end: 742.2,
+      name: 'Chapter 2',
+    },
+    {
+      start: 742.2,
+      end: 1163.704,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1163.704,
+      end: 1680.012,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1680.012,
+      end: 2007.047,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2007.047,
+      end: 2659.1888247829866,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.1888247829866,
+      end: 2709.499,
+      name: 'Outro',
+    },
+  ],
+}

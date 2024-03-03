@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E20 - Tin Man.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 136.901666,
+      name: 'Chapter 1',
+    },
+    {
+      start: 136.901666,
+      end: 243.577,
+      name: 'Intro',
+    },
+    {
+      start: 243.577,
+      end: 661.119,
+      name: 'Chapter 2',
+    },
+    {
+      start: 661.119,
+      end: 1191.232,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1191.232,
+      end: 1607.106,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1607.106,
+      end: 2134.883,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2134.883,
+      end: 2682.972,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.972,
+      end: 2733.106,
+      name: 'Outro',
+    },
+  ],
+}

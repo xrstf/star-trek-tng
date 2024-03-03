@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E10 - Hide and Q.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 142.388513,
+      name: 'Chapter 1',
+    },
+    {
+      start: 142.388513,
+      end: 245.287,
+      name: 'Intro',
+    },
+    {
+      start: 245.287,
+      end: 752.919,
+      name: 'Chapter 2',
+    },
+    {
+      start: 752.919,
+      end: 1298.798,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1298.798,
+      end: 1727.059,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1727.059,
+      end: 2167.457,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2167.457,
+      end: 2682.221,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.221,
+      end: 2731.354,
+      name: 'Outro',
+    },
+  ],
+}

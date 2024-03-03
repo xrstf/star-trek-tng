@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E11 - Contagion.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 253.306984,
+      name: 'Chapter 1',
+    },
+    {
+      start: 253.306984,
+      end: 349.85,
+      name: 'Intro',
+    },
+    {
+      start: 349.85,
+      end: 852.894,
+      name: 'Chapter 2',
+    },
+    {
+      start: 852.894,
+      end: 1244.994,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1244.994,
+      end: 1728.31,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1728.31,
+      end: 2104.019,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2104.019,
+      end: 2680.72,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.72,
+      end: 2731.271,
+      name: 'Outro',
+    },
+  ],
+}

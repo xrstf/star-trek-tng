@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E22 - Bloodlines.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 95.930865,
+      name: 'Chapter 1',
+    },
+    {
+      start: 95.930865,
+      end: 201.785,
+      name: 'Intro',
+    },
+    {
+      start: 201.785,
+      end: 655.655,
+      name: 'Chapter 2',
+    },
+    {
+      start: 655.655,
+      end: 1170.086,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1170.086,
+      end: 1621.954,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1621.954,
+      end: 2309.182,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2309.182,
+      end: 2659.24,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.24,
+      end: 2709.832,
+      name: 'Outro',
+    },
+  ],
+}

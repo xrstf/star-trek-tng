@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E02 - Family.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 253.6700833333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 253.6700833333333,
+      end: 359.943,
+      name: 'Intro',
+    },
+    {
+      start: 359.943,
+      end: 796.713,
+      name: 'Chapter 2',
+    },
+    {
+      start: 796.713,
+      end: 1262.052,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1262.052,
+      end: 1752,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1752,
+      end: 2258.84,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2258.84,
+      end: 2679.3989003833126,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.3989003833126,
+      end: 2730.061,
+      name: 'Outro',
+    },
+  ],
+}

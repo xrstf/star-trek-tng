@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E06 - The Schizoid Man.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 196.61308333333332,
+      name: 'Chapter 1',
+    },
+    {
+      start: 196.61308333333332,
+      end: 292.751,
+      name: 'Intro',
+    },
+    {
+      start: 292.751,
+      end: 673.59,
+      name: 'Chapter 2',
+    },
+    {
+      start: 673.59,
+      end: 1059.976,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1059.976,
+      end: 1466.09,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1466.09,
+      end: 1978.852,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1978.852,
+      end: 2678.718,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2678.718,
+      end: 2728.685,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S01E13 - Datalore.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 209.44772353675742,
+      name: 'Chapter 1',
+    },
+    {
+      start: 209.44772353675742,
+      end: 312.229,
+      name: 'Intro',
+    },
+    {
+      start: 312.229,
+      end: 773.064,
+      name: 'Chapter 2',
+    },
+    {
+      start: 773.064,
+      end: 1128.711,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1128.711,
+      end: 1599.223,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1599.223,
+      end: 2049.631,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2049.631,
+      end: 2683.472,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.472,
+      end: 2732.563,
+      name: 'Outro',
+    },
+  ],
+}

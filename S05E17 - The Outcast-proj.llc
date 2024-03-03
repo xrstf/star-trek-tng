@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S05E17 - The Outcast.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 99.32983,
+      name: 'Chapter 1',
+    },
+    {
+      start: 99.32983,
+      end: 203.995,
+      name: 'Intro',
+    },
+    {
+      start: 203.995,
+      end: 689.647,
+      name: 'Chapter 2',
+    },
+    {
+      start: 689.647,
+      end: 1492.992,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1492.992,
+      end: 1866.448,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1866.448,
+      end: 2235.817,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2235.817,
+      end: 2671.335,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2671.335,
+      end: 2737.36,
+      name: 'Outro',
+    },
+  ],
+}

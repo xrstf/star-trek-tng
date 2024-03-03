@@ -1,0 +1,66 @@
+{
+  version: 1,
+  mediaFileName: 'S01E01E02 - Encounter at Farpoint.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 104.313,
+      name: 'Intro',
+    },
+    {
+      start: 104.313,
+      end: 426.217,
+      name: 'Chapter 1',
+    },
+    {
+      start: 426.217,
+      end: 875.625,
+      name: 'Chapter 2',
+    },
+    {
+      start: 875.625,
+      end: 1649.273,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1649.273,
+      end: 2161.076,
+      name: 'Chapter 4',
+    },
+    {
+      start: 2161.076,
+      end: 2829.66,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2829.66,
+      end: 3422.878,
+      name: 'Chapter 6',
+    },
+    {
+      start: 3422.878,
+      end: 3980.018,
+      name: 'Chapter 7',
+    },
+    {
+      start: 3980.018,
+      end: 4302.673,
+      name: 'Chapter 8',
+    },
+    {
+      start: 4302.673,
+      end: 4704.158,
+      name: 'Chapter 9',
+    },
+    {
+      start: 4704.158,
+      end: 5417.37,
+      name: 'Chapter 10',
+    },
+    {
+      start: 5417.37,
+      end: 5481.893,
+      name: 'Outro',
+    },
+  ],
+}

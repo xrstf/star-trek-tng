@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E03 - The Survivors.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 150.77833608870966,
+      name: 'Chapter 1',
+    },
+    {
+      start: 150.77833608870966,
+      end: 257.424,
+      name: 'Intro',
+    },
+    {
+      start: 257.424,
+      end: 677.177,
+      name: 'Chapter 2',
+    },
+    {
+      start: 677.177,
+      end: 1111.902,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1111.902,
+      end: 1617.241,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1617.241,
+      end: 2054.261,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2054.261,
+      end: 2680.178,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.178,
+      end: 2730.311,
+      name: 'Outro',
+    },
+  ],
+}

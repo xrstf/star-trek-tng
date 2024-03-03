@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E14 - Clues.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 376.87649999999996,
+      name: 'Chapter 1',
+    },
+    {
+      start: 376.87649999999996,
+      end: 481.272,
+      name: 'Intro',
+    },
+    {
+      start: 481.272,
+      end: 877.21,
+      name: 'Chapter 2',
+    },
+    {
+      start: 877.21,
+      end: 1233.524,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1233.524,
+      end: 1723.597,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1723.597,
+      end: 2112.277,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2112.277,
+      end: 2679.873041851006,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.873041851006,
+      end: 2730.27,
+      name: 'Outro',
+    },
+  ],
+}

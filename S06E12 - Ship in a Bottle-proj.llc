@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S06E12 - Ship in a Bottle.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 373.029013,
+      name: 'Chapter 1',
+    },
+    {
+      start: 373.029013,
+      end: 479.02,
+      name: 'Intro',
+    },
+    {
+      start: 479.02,
+      end: 734.025,
+      name: 'Chapter 2',
+    },
+    {
+      start: 734.025,
+      end: 1229.145,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1229.145,
+      end: 1756.38,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1756.38,
+      end: 2294.959,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2294.959,
+      end: 2658.823,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2658.823,
+      end: 2709.04,
+      name: 'Outro',
+    },
+  ],
+}

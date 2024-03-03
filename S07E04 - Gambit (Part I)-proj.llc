@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S07E04 - Gambit (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 313.940045,
+      name: 'Chapter 1',
+    },
+    {
+      start: 313.940045,
+      end: 419.711,
+      name: 'Intro',
+    },
+    {
+      start: 419.711,
+      end: 849.474,
+      name: 'Chapter 2',
+    },
+    {
+      start: 849.474,
+      end: 1091.591,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1091.591,
+      end: 1462.544,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1462.544,
+      end: 2008.34,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2008.34,
+      end: 2645.184,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2645.184,
+      end: 2710.541,
+      name: 'Outro',
+    },
+  ],
+}

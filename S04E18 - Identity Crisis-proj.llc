@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E18 - Identity Crisis.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 102.93616666666667,
+      name: 'Chapter 1',
+    },
+    {
+      start: 102.93616666666667,
+      end: 207.124,
+      name: 'Intro',
+    },
+    {
+      start: 207.124,
+      end: 695.32,
+      name: 'Chapter 2',
+    },
+    {
+      start: 695.32,
+      end: 1110.568,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1110.568,
+      end: 1666.999,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1666.999,
+      end: 2146.77,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2146.77,
+      end: 2679.2405570395513,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.2405570395513,
+      end: 2730.019,
+      name: 'Outro',
+    },
+  ],
+}

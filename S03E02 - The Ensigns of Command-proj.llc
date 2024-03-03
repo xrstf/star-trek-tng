@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S03E02 - The Ensigns of Command.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 203.70460339591733,
+      name: 'Chapter 1',
+    },
+    {
+      start: 203.70460339591733,
+      end: 310.352,
+      name: 'Intro',
+    },
+    {
+      start: 310.352,
+      end: 781.99,
+      name: 'Chapter 2',
+    },
+    {
+      start: 781.99,
+      end: 1131.714,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1131.714,
+      end: 1578.077,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1578.077,
+      end: 1980.604,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1980.604,
+      end: 2680.261,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.261,
+      end: 2730.561,
+      name: 'Outro',
+    },
+  ],
+}

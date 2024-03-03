@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E18 - Up the Long Ladder.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 186.23759,
+      name: 'Chapter 1',
+    },
+    {
+      start: 186.23759,
+      end: 282.157,
+      name: 'Intro',
+    },
+    {
+      start: 282.157,
+      end: 833.583,
+      name: 'Chapter 2',
+    },
+    {
+      start: 833.583,
+      end: 1283.449,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1283.449,
+      end: 1747.955,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1747.955,
+      end: 2223.68,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2223.68,
+      end: 2675.298,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2675.298,
+      end: 2725.39,
+      name: 'Outro',
+    },
+  ],
+}

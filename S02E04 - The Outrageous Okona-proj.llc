@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S02E04 - The Outrageous Okona.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 209.66779166666666,
+      name: 'Chapter 1',
+    },
+    {
+      start: 209.66779166666666,
+      end: 305.806,
+      name: 'Intro',
+    },
+    {
+      start: 305.806,
+      end: 662.162,
+      name: 'Chapter 2',
+    },
+    {
+      start: 662.162,
+      end: 1201.826,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1201.826,
+      end: 1665.873,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1665.873,
+      end: 1984.065,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1984.065,
+      end: 2664.537,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2664.537,
+      end: 2730.311,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: 'S04E26 - Redemption (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 159.61779166666665,
+      name: 'Chapter 1',
+    },
+    {
+      start: 159.61779166666665,
+      end: 263.889,
+      name: 'Intro',
+    },
+    {
+      start: 263.889,
+      end: 756.214,
+      name: 'Chapter 2',
+    },
+    {
+      start: 756.214,
+      end: 1191.107,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1191.107,
+      end: 1731.647,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1731.647,
+      end: 2199.364,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2199.364,
+      end: 2674.881,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2674.881,
+      end: 2734.399,
+      name: 'Outro',
+    },
+  ],
+}
