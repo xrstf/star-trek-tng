@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E25 - The Inner Light.mkv',
+  mediaFileName: '../Season 5/S05E25 - The Inner Light.mkv',
   cutSegments: [
     {
       start: 0,

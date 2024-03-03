@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E22 - Half a Life.mkv',
+  mediaFileName: '../Season 4/S04E22 - Half a Life.mkv',
   cutSegments: [
     {
       start: 0,

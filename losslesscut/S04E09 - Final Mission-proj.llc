@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E09 - Final Mission.mkv',
+  mediaFileName: '../Season 4/S04E09 - Final Mission.mkv',
   cutSegments: [
     {
       start: 0,

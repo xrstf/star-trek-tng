@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E14 - Clues.mkv',
+  mediaFileName: '../Season 4/S04E14 - Clues.mkv',
   cutSegments: [
     {
       start: 0,

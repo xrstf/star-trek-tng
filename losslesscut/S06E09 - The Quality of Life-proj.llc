@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E09 - The Quality of Life.mkv',
+  mediaFileName: '../Season 6/S06E09 - The Quality of Life.mkv',
   cutSegments: [
     {
       start: 0,

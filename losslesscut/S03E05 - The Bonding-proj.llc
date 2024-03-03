@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E05 - The Bonding.mkv',
+  mediaFileName: '../Season 3/S03E05 - The Bonding.mkv',
   cutSegments: [
     {
       start: 0,

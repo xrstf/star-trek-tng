@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E05 - Disaster.mkv',
+  mediaFileName: '../Season 5/S05E05 - Disaster.mkv',
   cutSegments: [
     {
       start: 0,

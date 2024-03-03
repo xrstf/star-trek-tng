@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E09 - The Battle.mkv',
+  mediaFileName: '../Season 1/S01E09 - The Battle.mkv',
   cutSegments: [
     {
       start: 0,

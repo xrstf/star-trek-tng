@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E10 - Inheritance.mkv',
+  mediaFileName: '../Season 7/S07E10 - Inheritance.mkv',
   cutSegments: [
     {
       start: 0,

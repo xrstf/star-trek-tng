@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E26 - Descent (Part I).mkv',
+  mediaFileName: '../Season 6/S06E26 - Descent (Part I).mkv',
   cutSegments: [
     {
       start: 0,

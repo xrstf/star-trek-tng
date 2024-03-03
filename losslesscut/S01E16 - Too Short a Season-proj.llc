@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E16 - Too Short a Season.mkv',
+  mediaFileName: '../Season 1/S01E16 - Too Short a Season.mkv',
   cutSegments: [
     {
       start: 0,

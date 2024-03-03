@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E08 - Justice.mkv',
+  mediaFileName: '../Season 1/S01E08 - Justice.mkv',
   cutSegments: [
     {
       start: 0,

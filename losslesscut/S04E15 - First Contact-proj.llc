@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E15 - First Contact.mkv',
+  mediaFileName: '../Season 4/S04E15 - First Contact.mkv',
   cutSegments: [
     {
       start: 0,

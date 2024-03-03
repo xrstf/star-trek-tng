@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 6/S06E01 - Time's Arrow (Part II).mkv",
+  mediaFileName: "../Season 6/S06E01 - Time's Arrow (Part II).mkv",
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E22 - Symbiosis.mkv',
+  mediaFileName: '../Season 1/S01E22 - Symbiosis.mkv',
   cutSegments: [
     {
       start: 0,

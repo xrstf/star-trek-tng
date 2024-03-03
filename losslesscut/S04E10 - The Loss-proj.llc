@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E10 - The Loss.mkv',
+  mediaFileName: '../Season 4/S04E10 - The Loss.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E14 - Conundrum.mkv',
+  mediaFileName: '../Season 5/S05E14 - Conundrum.mkv',
   cutSegments: [
     {
       start: 0,

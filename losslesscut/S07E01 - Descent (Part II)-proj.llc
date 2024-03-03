@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E01 - Descent (Part II).mkv',
+  mediaFileName: '../Season 7/S07E01 - Descent (Part II).mkv',
   cutSegments: [
     {
       start: 0,

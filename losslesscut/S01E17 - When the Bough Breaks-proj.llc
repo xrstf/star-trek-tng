@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E17 - When the Bough Breaks.mkv',
+  mediaFileName: '../Season 1/S01E17 - When the Bough Breaks.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E10 - The Dauphin.mkv',
+  mediaFileName: '../Season 2/S02E10 - The Dauphin.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E03 - Man of the People.mkv',
+  mediaFileName: '../Season 6/S06E03 - Man of the People.mkv',
   cutSegments: [
     {
       start: 0,

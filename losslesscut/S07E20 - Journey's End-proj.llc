@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 7/S07E20 - Journey's End.mkv",
+  mediaFileName: "../Season 7/S07E20 - Journey's End.mkv",
   cutSegments: [
     {
       start: 0,

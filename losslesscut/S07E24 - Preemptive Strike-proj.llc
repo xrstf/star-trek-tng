@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E24 - Preemptive Strike.mkv',
+  mediaFileName: '../Season 7/S07E24 - Preemptive Strike.mkv',
   cutSegments: [
     {
       start: 0,

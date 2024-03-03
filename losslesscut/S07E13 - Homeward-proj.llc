@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E13 - Homeward.mkv',
+  mediaFileName: '../Season 7/S07E13 - Homeward.mkv',
   cutSegments: [
     {
       start: 0,

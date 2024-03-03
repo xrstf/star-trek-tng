@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E21 - The Perfect Mate.mkv',
+  mediaFileName: '../Season 5/S05E21 - The Perfect Mate.mkv',
   cutSegments: [
     {
       start: 0,

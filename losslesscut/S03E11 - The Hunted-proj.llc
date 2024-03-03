@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E11 - The Hunted.mkv',
+  mediaFileName: '../Season 3/S03E11 - The Hunted.mkv',
   cutSegments: [
     {
       start: 0,

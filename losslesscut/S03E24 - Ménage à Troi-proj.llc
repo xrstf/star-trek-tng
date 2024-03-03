@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E24 - Ménage à Troi.mkv',
+  mediaFileName: '../Season 3/S03E24 - Ménage à Troi.mkv',
   cutSegments: [
     {
       start: 0,

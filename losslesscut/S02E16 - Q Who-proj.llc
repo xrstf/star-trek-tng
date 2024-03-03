@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E16 - Q Who.mkv',
+  mediaFileName: '../Season 2/S02E16 - Q Who.mkv',
   cutSegments: [
     {
       start: 0,

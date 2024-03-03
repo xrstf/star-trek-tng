@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E25 - Transfigurations.mkv',
+  mediaFileName: '../Season 3/S03E25 - Transfigurations.mkv',
   cutSegments: [
     {
       start: 0,

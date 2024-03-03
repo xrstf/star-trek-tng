@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E21 - Hollow Pursuits.mkv',
+  mediaFileName: '../Season 3/S03E21 - Hollow Pursuits.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E03 - The Naked Now.mkv',
+  mediaFileName: '../Season 1/S01E03 - The Naked Now.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E05 - Loud as a Whisper.mkv',
+  mediaFileName: '../Season 2/S02E05 - Loud as a Whisper.mkv',
   cutSegments: [
     {
       start: 0,

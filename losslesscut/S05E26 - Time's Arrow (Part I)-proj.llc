@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 5/S05E26 - Time's Arrow (Part I).mkv",
+  mediaFileName: "../Season 5/S05E26 - Time's Arrow (Part I).mkv",
   cutSegments: [
     {
       start: 0,

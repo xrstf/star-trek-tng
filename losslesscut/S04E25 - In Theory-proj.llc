@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E25 - In Theory.mkv',
+  mediaFileName: '../Season 4/S04E25 - In Theory.mkv',
   cutSegments: [
     {
       start: 0,

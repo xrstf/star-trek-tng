@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E23 - Skin of Evil.mkv',
+  mediaFileName: '../Season 1/S01E23 - Skin of Evil.mkv',
   cutSegments: [
     {
       start: 0,

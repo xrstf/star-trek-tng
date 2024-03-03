@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E01E02 - Encounter at Farpoint.mkv',
+  mediaFileName: '../Season 1/S01E01E02 - Encounter at Farpoint.mkv',
   cutSegments: [
     {
       start: 0,

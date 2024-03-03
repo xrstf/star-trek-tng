@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E06 - The Schizoid Man.mkv',
+  mediaFileName: '../Season 2/S02E06 - The Schizoid Man.mkv',
   cutSegments: [
     {
       start: 0,

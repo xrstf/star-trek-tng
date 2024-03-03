@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E12 - The Big Goodbye.mkv',
+  mediaFileName: '../Season 1/S01E12 - The Big Goodbye.mkv',
   cutSegments: [
     {
       start: 0,

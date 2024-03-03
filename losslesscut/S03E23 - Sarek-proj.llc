@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E23 - Sarek.mkv',
+  mediaFileName: '../Season 3/S03E23 - Sarek.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E07 - Dark Page.mkv',
+  mediaFileName: '../Season 7/S07E07 - Dark Page.mkv',
   cutSegments: [
     {
       start: 0,

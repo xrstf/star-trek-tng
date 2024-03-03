@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E04 - The Outrageous Okona.mkv',
+  mediaFileName: '../Season 2/S02E04 - The Outrageous Okona.mkv',
   cutSegments: [
     {
       start: 0,

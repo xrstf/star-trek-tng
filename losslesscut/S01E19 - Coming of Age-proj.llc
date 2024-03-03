@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E19 - Coming of Age.mkv',
+  mediaFileName: '../Season 1/S01E19 - Coming of Age.mkv',
   cutSegments: [
     {
       start: 0,

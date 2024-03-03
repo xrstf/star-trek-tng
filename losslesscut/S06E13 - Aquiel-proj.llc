@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E13 - Aquiel.mkv',
+  mediaFileName: '../Season 6/S06E13 - Aquiel.mkv',
   cutSegments: [
     {
       start: 0,

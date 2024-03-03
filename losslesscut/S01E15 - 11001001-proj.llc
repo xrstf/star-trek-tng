@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E15 - 11001001.mkv',
+  mediaFileName: '../Season 1/S01E15 - 11001001.mkv',
   cutSegments: [
     {
       start: 0,

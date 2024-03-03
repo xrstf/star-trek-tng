@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E13 - The Masterpiece Society.mkv',
+  mediaFileName: '../Season 5/S05E13 - The Masterpiece Society.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E26 - The Neutral Zone.mkv',
+  mediaFileName: '../Season 1/S01E26 - The Neutral Zone.mkv',
   cutSegments: [
     {
       start: 0,

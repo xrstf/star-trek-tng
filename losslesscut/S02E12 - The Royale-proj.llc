@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E12 - The Royale.mkv',
+  mediaFileName: '../Season 2/S02E12 - The Royale.mkv',
   cutSegments: [
     {
       start: 0,

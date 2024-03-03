@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E08 - A Matter of Honor.mkv',
+  mediaFileName: '../Season 2/S02E08 - A Matter of Honor.mkv',
   cutSegments: [
     {
       start: 0,

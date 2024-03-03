@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E11 - Hero Worship.mkv',
+  mediaFileName: '../Season 5/S05E11 - Hero Worship.mkv',
   cutSegments: [
     {
       start: 0,

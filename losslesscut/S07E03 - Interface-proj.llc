@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E03 - Interface.mkv',
+  mediaFileName: '../Season 7/S07E03 - Interface.mkv',
   cutSegments: [
     {
       start: 0,

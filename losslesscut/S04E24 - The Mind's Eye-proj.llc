@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 4/S04E24 - The Mind's Eye.mkv",
+  mediaFileName: "../Season 4/S04E24 - The Mind's Eye.mkv",
   cutSegments: [
     {
       start: 0,

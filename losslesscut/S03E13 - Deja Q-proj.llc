@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E13 - Deja Q.mkv',
+  mediaFileName: '../Season 3/S03E13 - Deja Q.mkv',
   cutSegments: [
     {
       start: 0,

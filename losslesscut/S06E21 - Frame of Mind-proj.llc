@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E21 - Frame of Mind.mkv',
+  mediaFileName: '../Season 6/S06E21 - Frame of Mind.mkv',
   cutSegments: [
     {
       start: 0,

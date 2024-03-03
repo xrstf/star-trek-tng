@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E16 - Thine Own Self.mkv',
+  mediaFileName: '../Season 7/S07E16 - Thine Own Self.mkv',
   cutSegments: [
     {
       start: 0,

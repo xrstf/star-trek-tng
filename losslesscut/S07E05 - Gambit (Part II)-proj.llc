@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E05 - Gambit (Part II).mkv',
+  mediaFileName: '../Season 7/S07E05 - Gambit (Part II).mkv',
   cutSegments: [
     {
       start: 0,

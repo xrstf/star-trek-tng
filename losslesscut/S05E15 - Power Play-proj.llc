@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E15 - Power Play.mkv',
+  mediaFileName: '../Season 5/S05E15 - Power Play.mkv',
   cutSegments: [
     {
       start: 0,

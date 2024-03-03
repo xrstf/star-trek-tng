@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E20 - The Emissary.mkv',
+  mediaFileName: '../Season 2/S02E20 - The Emissary.mkv',
   cutSegments: [
     {
       start: 0,

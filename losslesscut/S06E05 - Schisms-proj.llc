@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E05 - Schisms.mkv',
+  mediaFileName: '../Season 6/S06E05 - Schisms.mkv',
   cutSegments: [
     {
       start: 0,

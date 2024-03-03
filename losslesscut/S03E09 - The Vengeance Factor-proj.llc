@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E09 - The Vengeance Factor.mkv',
+  mediaFileName: '../Season 3/S03E09 - The Vengeance Factor.mkv',
   cutSegments: [
     {
       start: 0,

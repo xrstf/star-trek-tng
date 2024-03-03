@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E08 - A Fistful of Datas.mkv',
+  mediaFileName: '../Season 6/S06E08 - A Fistful of Datas.mkv',
   cutSegments: [
     {
       start: 0,

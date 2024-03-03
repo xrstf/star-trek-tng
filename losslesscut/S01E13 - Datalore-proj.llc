@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E13 - Datalore.mkv',
+  mediaFileName: '../Season 1/S01E13 - Datalore.mkv',
   cutSegments: [
     {
       start: 0,

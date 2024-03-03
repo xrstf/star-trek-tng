@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E04 - Who Watches the Watchers.mkv',
+  mediaFileName: '../Season 3/S03E04 - Who Watches the Watchers.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E07 - Unification (Part I).mkv',
+  mediaFileName: '../Season 5/S05E07 - Unification (Part I).mkv',
   cutSegments: [
     {
       start: 0,

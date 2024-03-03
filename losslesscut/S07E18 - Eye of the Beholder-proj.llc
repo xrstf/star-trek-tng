@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E18 - Eye of the Beholder.mkv',
+  mediaFileName: '../Season 7/S07E18 - Eye of the Beholder.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E06 - Where No One Has Gone Before.mkv',
+  mediaFileName: '../Season 1/S01E06 - Where No One Has Gone Before.mkv',
   cutSegments: [
     {
       start: 0,

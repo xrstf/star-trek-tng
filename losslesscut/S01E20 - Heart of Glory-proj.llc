@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E20 - Heart of Glory.mkv',
+  mediaFileName: '../Season 1/S01E20 - Heart of Glory.mkv',
   cutSegments: [
     {
       start: 0,

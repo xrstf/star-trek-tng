@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E14 - Angel One.mkv',
+  mediaFileName: '../Season 1/S01E14 - Angel One.mkv',
   cutSegments: [
     {
       start: 0,

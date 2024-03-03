@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E14 - Face of the Enemy.mkv',
+  mediaFileName: '../Season 6/S06E14 - Face of the Enemy.mkv',
   cutSegments: [
     {
       start: 0,

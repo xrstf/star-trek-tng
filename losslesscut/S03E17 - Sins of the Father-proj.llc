@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E17 - Sins of the Father.mkv',
+  mediaFileName: '../Season 3/S03E17 - Sins of the Father.mkv',
   cutSegments: [
     {
       start: 0,

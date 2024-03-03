@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E03 - Brothers.mkv',
+  mediaFileName: '../Season 4/S04E03 - Brothers.mkv',
   cutSegments: [
     {
       start: 0,

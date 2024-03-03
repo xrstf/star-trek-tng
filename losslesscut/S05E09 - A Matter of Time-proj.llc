@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E09 - A Matter of Time.mkv',
+  mediaFileName: '../Season 5/S05E09 - A Matter of Time.mkv',
   cutSegments: [
     {
       start: 0,

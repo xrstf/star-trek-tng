@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E18 - Identity Crisis.mkv',
+  mediaFileName: '../Season 4/S04E18 - Identity Crisis.mkv',
   cutSegments: [
     {
       start: 0,

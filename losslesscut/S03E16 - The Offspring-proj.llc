@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E16 - The Offspring.mkv',
+  mediaFileName: '../Season 3/S03E16 - The Offspring.mkv',
   cutSegments: [
     {
       start: 0,

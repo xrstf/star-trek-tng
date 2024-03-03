@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E15 - Pen Pals.mkv',
+  mediaFileName: '../Season 2/S02E15 - Pen Pals.mkv',
   cutSegments: [
     {
       start: 0,

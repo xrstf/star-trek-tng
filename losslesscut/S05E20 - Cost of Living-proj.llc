@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E20 - Cost of Living.mkv',
+  mediaFileName: '../Season 5/S05E20 - Cost of Living.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E24 - The Next Phase.mkv',
+  mediaFileName: '../Season 5/S05E24 - The Next Phase.mkv',
   cutSegments: [
     {
       start: 0,

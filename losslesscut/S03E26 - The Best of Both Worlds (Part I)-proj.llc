@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E26 - The Best of Both Worlds (Part I).mkv',
+  mediaFileName: '../Season 3/S03E26 - The Best of Both Worlds (Part I).mkv',
   cutSegments: [
     {
       start: 0,

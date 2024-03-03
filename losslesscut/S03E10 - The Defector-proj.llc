@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 3/S03E10 - The Defector.mkv',
+  mediaFileName: '../Season 3/S03E10 - The Defector.mkv',
   cutSegments: [
     {
       start: 0,

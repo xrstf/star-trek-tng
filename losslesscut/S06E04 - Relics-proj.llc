@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E04 - Relics.mkv',
+  mediaFileName: '../Season 6/S06E04 - Relics.mkv',
   cutSegments: [
     {
       start: 0,

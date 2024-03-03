@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E17 - Samaritan Snare.mkv',
+  mediaFileName: '../Season 2/S02E17 - Samaritan Snare.mkv',
   cutSegments: [
     {
       start: 0,

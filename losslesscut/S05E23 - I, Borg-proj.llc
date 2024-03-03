@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E23 - I, Borg.mkv',
+  mediaFileName: '../Season 5/S05E23 - I, Borg.mkv',
   cutSegments: [
     {
       start: 0,

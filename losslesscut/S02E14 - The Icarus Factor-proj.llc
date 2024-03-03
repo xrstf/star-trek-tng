@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E14 - The Icarus Factor.mkv',
+  mediaFileName: '../Season 2/S02E14 - The Icarus Factor.mkv',
   cutSegments: [
     {
       start: 0,

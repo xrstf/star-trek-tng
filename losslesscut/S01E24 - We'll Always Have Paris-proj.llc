@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 1/S01E24 - We'll Always Have Paris.mkv",
+  mediaFileName: "../Season 1/S01E24 - We'll Always Have Paris.mkv",
   cutSegments: [
     {
       start: 0,

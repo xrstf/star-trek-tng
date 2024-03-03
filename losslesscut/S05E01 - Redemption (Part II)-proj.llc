@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 5/S05E01 - Redemption (Part II).mkv',
+  mediaFileName: '../Season 5/S05E01 - Redemption (Part II).mkv',
   cutSegments: [
     {
       start: 0,

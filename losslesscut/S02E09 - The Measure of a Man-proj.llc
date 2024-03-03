@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E09 - The Measure of a Man.mkv',
+  mediaFileName: '../Season 2/S02E09 - The Measure of a Man.mkv',
   cutSegments: [
     {
       start: 0,

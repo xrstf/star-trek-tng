@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E11 - Chain of Command (Part II).mkv',
+  mediaFileName: '../Season 6/S06E11 - Chain of Command (Part II).mkv',
   cutSegments: [
     {
       start: 0,

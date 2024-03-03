@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E02 - Liaisons.mkv',
+  mediaFileName: '../Season 7/S07E02 - Liaisons.mkv',
   cutSegments: [
     {
       start: 0,

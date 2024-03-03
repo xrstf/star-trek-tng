@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 4/S04E05 - Remember Me.mkv',
+  mediaFileName: '../Season 4/S04E05 - Remember Me.mkv',
   cutSegments: [
     {
       start: 0,

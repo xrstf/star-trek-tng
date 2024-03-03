@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 7/S07E21 - Firstborn.mkv',
+  mediaFileName: '../Season 7/S07E21 - Firstborn.mkv',
   cutSegments: [
     {
       start: 0,

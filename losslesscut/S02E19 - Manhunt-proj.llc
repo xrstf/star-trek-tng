@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 2/S02E19 - Manhunt.mkv',
+  mediaFileName: '../Season 2/S02E19 - Manhunt.mkv',
   cutSegments: [
     {
       start: 0,

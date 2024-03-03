@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 3/S03E15 - Yesterday's Enterprise.mkv",
+  mediaFileName: "../Season 3/S03E15 - Yesterday's Enterprise.mkv",
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 6/S06E06 - True Q.mkv',
+  mediaFileName: '../Season 6/S06E06 - True Q.mkv',
   cutSegments: [
     {
       start: 0,

@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: "../../Season 4/S04E13 - Devil's Due.mkv",
+  mediaFileName: "../Season 4/S04E13 - Devil's Due.mkv",
   cutSegments: [
     {
       start: 0,

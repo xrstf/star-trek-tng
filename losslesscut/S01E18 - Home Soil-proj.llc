@@ -1,6 +1,6 @@
 {
   version: 1,
-  mediaFileName: '../../Season 1/S01E18 - Home Soil.mkv',
+  mediaFileName: '../Season 1/S01E18 - Home Soil.mkv',
   cutSegments: [
     {
       start: 0,
