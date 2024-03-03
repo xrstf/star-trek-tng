@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E14 - Face of the Enemy.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 96.030128,
+      name: 'Chapter 1',
+    },
+    {
+      start: 96.030128,
+      end: 201.827,
+      name: 'Intro',
+    },
+    {
+      start: 201.827,
+      end: 546.337,
+      name: 'Chapter 2',
+    },
+    {
+      start: 546.337,
+      end: 1212.253,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1212.253,
+      end: 1674.423,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1674.423,
+      end: 2156.488,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2156.488,
+      end: 2643.808,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2643.808,
+      end: 2709.123,
+      name: 'Outro',
+    },
+  ],
+}

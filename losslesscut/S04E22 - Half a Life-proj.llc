@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E22 - Half a Life.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 159.90975,
+      name: 'Chapter 1',
+    },
+    {
+      start: 159.90975,
+      end: 264.139,
+      name: 'Intro',
+    },
+    {
+      start: 264.139,
+      end: 615.49,
+      name: 'Chapter 2',
+    },
+    {
+      start: 615.49,
+      end: 1019.352,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1019.352,
+      end: 1444.902,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1444.902,
+      end: 1920.919,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1920.919,
+      end: 2680.136,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.136,
+      end: 2730.311,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 5/S05E13 - The Masterpiece Society.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 235.725972,
+      name: 'Chapter 1',
+    },
+    {
+      start: 235.725972,
+      end: 340.549,
+      name: 'Intro',
+    },
+    {
+      start: 340.549,
+      end: 833.166,
+      name: 'Chapter 2',
+    },
+    {
+      start: 833.166,
+      end: 1364.655,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1364.655,
+      end: 1593.759,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1593.759,
+      end: 1815.105,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1815.105,
+      end: 2681.262,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.262,
+      end: 2731.938,
+      name: 'Outro',
+    },
+  ],
+}

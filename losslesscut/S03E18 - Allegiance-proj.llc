@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E18 - Allegiance.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 129.060876,
+      name: 'Chapter 1',
+    },
+    {
+      start: 129.060876,
+      end: 236.027,
+      name: 'Intro',
+    },
+    {
+      start: 236.027,
+      end: 697.03,
+      name: 'Chapter 2',
+    },
+    {
+      start: 697.03,
+      end: 1270.227,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1270.227,
+      end: 1825.198,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1825.198,
+      end: 2201.7,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2201.7,
+      end: 2679.01,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.01,
+      end: 2729.143,
+      name: 'Outro',
+    },
+  ],
+}

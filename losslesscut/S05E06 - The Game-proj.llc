@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 5/S05E06 - The Game.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 183.9754583333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 183.9754583333333,
+      end: 288.497,
+      name: 'Intro',
+    },
+    {
+      start: 288.497,
+      end: 555.305,
+      name: 'Chapter 2',
+    },
+    {
+      start: 555.305,
+      end: 953.87,
+      name: 'Chapter 3',
+    },
+    {
+      start: 953.87,
+      end: 1703.577,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1703.577,
+      end: 2019.518,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2019.518,
+      end: 2681.596,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.596,
+      end: 2732.105,
+      name: 'Outro',
+    },
+  ],
+}

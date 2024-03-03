@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E17 - Masks.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 270.115178,
+      name: 'Chapter 1',
+    },
+    {
+      start: 270.115178,
+      end: 376.001,
+      name: 'Intro',
+    },
+    {
+      start: 376.001,
+      end: 571.571,
+      name: 'Chapter 2',
+    },
+    {
+      start: 571.571,
+      end: 903.945,
+      name: 'Chapter 3',
+    },
+    {
+      start: 903.945,
+      end: 1296.337,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1296.337,
+      end: 1933.14,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1933.14,
+      end: 2660.825,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2660.825,
+      end: 2710.875,
+      name: 'Outro',
+    },
+  ],
+}

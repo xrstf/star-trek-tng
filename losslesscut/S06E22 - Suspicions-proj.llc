@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E22 - Suspicions.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 63.692435,
+      name: 'Chapter 1',
+    },
+    {
+      start: 63.692435,
+      end: 168.377,
+      name: 'Intro',
+    },
+    {
+      start: 168.377,
+      end: 854.604,
+      name: 'Chapter 2',
+    },
+    {
+      start: 854.604,
+      end: 1192.692,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1192.692,
+      end: 1909.366,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1909.366,
+      end: 2278.151,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2278.151,
+      end: 2644.9871402082,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2644.9871402082,
+      end: 2710.458,
+      name: 'Outro',
+    },
+  ],
+}

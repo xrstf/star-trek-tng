@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E09 - The Battle.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 218.563819,
+      name: 'Chapter 1',
+    },
+    {
+      start: 218.563819,
+      end: 320.529,
+      name: 'Intro',
+    },
+    {
+      start: 320.529,
+      end: 749.374,
+      name: 'Chapter 2',
+    },
+    {
+      start: 749.374,
+      end: 1286.869,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1286.869,
+      end: 1805.262,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1805.262,
+      end: 2213.67,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2213.67,
+      end: 2681.179,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.179,
+      end: 2730.895,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E16 - Birthright (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 292.186765,
+      name: 'Chapter 1',
+    },
+    {
+      start: 292.186765,
+      end: 398.899,
+      name: 'Intro',
+    },
+    {
+      start: 398.899,
+      end: 915.957,
+      name: 'Chapter 2',
+    },
+    {
+      start: 915.957,
+      end: 1280.446,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1280.446,
+      end: 1661.41,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1661.41,
+      end: 2317.232,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2317.232,
+      end: 2660.95,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2660.95,
+      end: 2711.376,
+      name: 'Outro',
+    },
+  ],
+}

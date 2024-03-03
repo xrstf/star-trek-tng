@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E11 - Chain of Command (Part II).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 152.400681,
+      name: 'Chapter 1',
+    },
+    {
+      start: 152.400681,
+      end: 258.175,
+      name: 'Intro',
+    },
+    {
+      start: 258.175,
+      end: 676.551,
+      name: 'Chapter 2',
+    },
+    {
+      start: 676.551,
+      end: 1081.581,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1081.581,
+      end: 1642.391,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1642.391,
+      end: 2036.368,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2036.368,
+      end: 2657.989,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2657.989,
+      end: 2708.164,
+      name: 'Outro',
+    },
+  ],
+}

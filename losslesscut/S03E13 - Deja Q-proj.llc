@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E13 - Deja Q.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 173.186174,
+      name: 'Chapter 1',
+    },
+    {
+      start: 173.186174,
+      end: 279.78,
+      name: 'Intro',
+    },
+    {
+      start: 279.78,
+      end: 684.434,
+      name: 'Chapter 2',
+    },
+    {
+      start: 684.434,
+      end: 1374.248,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1374.248,
+      end: 1864.905,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1864.905,
+      end: 2193.108,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2193.108,
+      end: 2681.186796810912,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.186796810912,
+      end: 2731.562,
+      name: 'Outro',
+    },
+  ],
+}

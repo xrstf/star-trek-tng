@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E10 - Inheritance.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 164.979126,
+      name: 'Chapter 1',
+    },
+    {
+      start: 164.979126,
+      end: 270.145,
+      name: 'Intro',
+    },
+    {
+      start: 270.145,
+      end: 708.875,
+      name: 'Chapter 2',
+    },
+    {
+      start: 708.875,
+      end: 1366.574,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1366.574,
+      end: 1717.925,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1717.925,
+      end: 1942.858,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1942.858,
+      end: 2656.612,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2656.612,
+      end: 2707.33,
+      name: 'Outro',
+    },
+  ],
+}

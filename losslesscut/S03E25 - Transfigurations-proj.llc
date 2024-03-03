@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E25 - Transfigurations.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 204.748242,
+      name: 'Chapter 1',
+    },
+    {
+      start: 204.748242,
+      end: 311.311,
+      name: 'Intro',
+    },
+    {
+      start: 311.311,
+      end: 709.375,
+      name: 'Chapter 2',
+    },
+    {
+      start: 709.375,
+      end: 1457.915,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1457.915,
+      end: 1889.513,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1889.513,
+      end: 2289.454,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2289.454,
+      end: 2666.4337487819444,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2666.4337487819444,
+      end: 2731.729,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E18 - Eye of the Beholder.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 154.279125,
+      name: 'Chapter 1',
+    },
+    {
+      start: 154.279125,
+      end: 259.634,
+      name: 'Intro',
+    },
+    {
+      start: 259.634,
+      end: 880.88,
+      name: 'Chapter 2',
+    },
+    {
+      start: 880.88,
+      end: 1292.833,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1292.833,
+      end: 1764.93,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1764.93,
+      end: 2309.307,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2309.307,
+      end: 2659.2019646760864,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.2019646760864,
+      end: 2710.416,
+      name: 'Outro',
+    },
+  ],
+}

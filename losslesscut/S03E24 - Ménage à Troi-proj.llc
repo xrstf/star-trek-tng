@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E24 - Ménage à Troi.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 314.352591,
+      name: 'Chapter 1',
+    },
+    {
+      start: 314.352591,
+      end: 420.295,
+      name: 'Intro',
+    },
+    {
+      start: 420.295,
+      end: 880.505,
+      name: 'Chapter 2',
+    },
+    {
+      start: 880.505,
+      end: 1344.385,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1344.385,
+      end: 1764.388,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1764.388,
+      end: 2032.239,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2032.239,
+      end: 2677.3,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2677.3,
+      end: 2727.433,
+      name: 'Outro',
+    },
+  ],
+}

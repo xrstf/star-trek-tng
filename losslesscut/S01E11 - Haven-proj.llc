@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E11 - Haven.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 165.58208333333332,
+      name: 'Chapter 1',
+    },
+    {
+      start: 165.58208333333332,
+      end: 267.601,
+      name: 'Intro',
+    },
+    {
+      start: 267.601,
+      end: 601.351,
+      name: 'Chapter 2',
+    },
+    {
+      start: 601.351,
+      end: 1124.665,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1124.665,
+      end: 1621.245,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1621.245,
+      end: 2007.506,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2007.506,
+      end: 2683.723,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.723,
+      end: 2732.814,
+      name: 'Outro',
+    },
+  ],
+}

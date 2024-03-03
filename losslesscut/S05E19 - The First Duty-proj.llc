@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 5/S05E19 - The First Duty.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 109.77633333333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 109.77633333333333,
+      end: 214.214,
+      name: 'Intro',
+    },
+    {
+      start: 214.214,
+      end: 571.571,
+      name: 'Chapter 2',
+    },
+    {
+      start: 571.571,
+      end: 1134.133,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1134.133,
+      end: 1680.429,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1680.429,
+      end: 1937.602,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1937.602,
+      end: 2678.369558961608,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2678.369558961608,
+      end: 2728.851,
+      name: 'Outro',
+    },
+  ],
+}

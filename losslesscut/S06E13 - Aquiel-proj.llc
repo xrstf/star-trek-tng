@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E13 - Aquiel.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 112.097439,
+      name: 'Chapter 1',
+    },
+    {
+      start: 112.097439,
+      end: 217.384,
+      name: 'Intro',
+    },
+    {
+      start: 217.384,
+      end: 545.086,
+      name: 'Chapter 2',
+    },
+    {
+      start: 545.086,
+      end: 1049.215,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1049.215,
+      end: 1653.026,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1653.026,
+      end: 2115.572,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2115.572,
+      end: 2658.156,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2658.156,
+      end: 2708.498,
+      name: 'Outro',
+    },
+  ],
+}

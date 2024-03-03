@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E25 - Timescape.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 309.333841,
+      name: 'Chapter 1',
+    },
+    {
+      start: 309.333841,
+      end: 414.623,
+      name: 'Intro',
+    },
+    {
+      start: 414.623,
+      end: 966.549,
+      name: 'Chapter 2',
+    },
+    {
+      start: 966.549,
+      end: 1351.267,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1351.267,
+      end: 1884.466,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1884.466,
+      end: 2190.522,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2190.522,
+      end: 2656.154,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2656.154,
+      end: 2706.788,
+      name: 'Outro',
+    },
+  ],
+}

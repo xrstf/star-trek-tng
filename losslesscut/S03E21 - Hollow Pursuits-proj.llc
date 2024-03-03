@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E21 - Hollow Pursuits.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 223.434323,
+      name: 'Chapter 1',
+    },
+    {
+      start: 223.434323,
+      end: 330.121,
+      name: 'Intro',
+    },
+    {
+      start: 330.121,
+      end: 885.218,
+      name: 'Chapter 2',
+    },
+    {
+      start: 885.218,
+      end: 1534.158,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1534.158,
+      end: 1794.584,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1794.584,
+      end: 2197.987,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2197.987,
+      end: 2681.971,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.971,
+      end: 2732.313,
+      name: 'Outro',
+    },
+  ],
+}

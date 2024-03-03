@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E15 - 11001001.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 319.004938,
+      name: 'Chapter 1',
+    },
+    {
+      start: 319.004938,
+      end: 420.879,
+      name: 'Intro',
+    },
+    {
+      start: 420.879,
+      end: 853.519,
+      name: 'Chapter 2',
+    },
+    {
+      start: 853.519,
+      end: 1436.81,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1436.81,
+      end: 1887.803,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1887.803,
+      end: 2161.451,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2161.451,
+      end: 2681.846,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.846,
+      end: 2731.312,
+      name: 'Outro',
+    },
+  ],
+}

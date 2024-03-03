@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 2/S02E03 - Elementary, Dear Data.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 142.4403,
+      name: 'Chapter 1',
+    },
+    {
+      start: 142.4403,
+      end: 241.283,
+      name: 'Intro',
+    },
+    {
+      start: 241.283,
+      end: 704.996,
+      name: 'Chapter 2',
+    },
+    {
+      start: 704.996,
+      end: 1126.042,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1126.042,
+      end: 1694.318,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1694.318,
+      end: 2146.895,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2146.895,
+      end: 2688.186,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2688.186,
+      end: 2738.403,
+      name: 'Outro',
+    },
+  ],
+}

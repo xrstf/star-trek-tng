@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E20 - Heart of Glory.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 198.08542892590128,
+      name: 'Chapter 1',
+    },
+    {
+      start: 198.08542892590128,
+      end: 300.217,
+      name: 'Intro',
+    },
+    {
+      start: 300.217,
+      end: 804.637,
+      name: 'Chapter 2',
+    },
+    {
+      start: 804.637,
+      end: 1310.643,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1310.643,
+      end: 1776.358,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1776.358,
+      end: 2288.286,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2288.286,
+      end: 2682.138,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.138,
+      end: 2732.355,
+      name: 'Outro',
+    },
+  ],
+}

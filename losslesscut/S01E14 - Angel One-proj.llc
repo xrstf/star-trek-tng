@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E14 - Angel One.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 159.89812596292634,
+      name: 'Chapter 1',
+    },
+    {
+      start: 159.89812596292634,
+      end: 262.429,
+      name: 'Intro',
+    },
+    {
+      start: 262.429,
+      end: 698.323,
+      name: 'Chapter 2',
+    },
+    {
+      start: 698.323,
+      end: 1140.89,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1140.89,
+      end: 1735.4,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1735.4,
+      end: 2170.168,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2170.168,
+      end: 2681.596,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.596,
+      end: 2731.521,
+      name: 'Outro',
+    },
+  ],
+}

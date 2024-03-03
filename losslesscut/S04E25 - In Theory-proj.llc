@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E25 - In Theory.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 178.21970833333333,
+      name: 'Chapter 1',
+    },
+    {
+      start: 178.21970833333333,
+      end: 282.657,
+      name: 'Intro',
+    },
+    {
+      start: 282.657,
+      end: 657.991,
+      name: 'Chapter 2',
+    },
+    {
+      start: 657.991,
+      end: 1209.041,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1209.041,
+      end: 1560.726,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1560.726,
+      end: 2087.586,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2087.586,
+      end: 2682.263,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.263,
+      end: 2732.563,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 2/S02E01 - The Child.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 273.597043,
+      name: 'Chapter 1',
+    },
+    {
+      start: 273.597043,
+      end: 371.246,
+      name: 'Intro',
+    },
+    {
+      start: 371.246,
+      end: 782.532,
+      name: 'Chapter 2',
+    },
+    {
+      start: 782.532,
+      end: 1363.571,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1363.571,
+      end: 1959.875,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1959.875,
+      end: 2271.311,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2271.311,
+      end: 2681.012,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.012,
+      end: 2730.895,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E12 - The Big Goodbye.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 235.6118811688101,
+      name: 'Chapter 1',
+    },
+    {
+      start: 235.6118811688101,
+      end: 337.504,
+      name: 'Intro',
+    },
+    {
+      start: 337.504,
+      end: 825.7,
+      name: 'Chapter 2',
+    },
+    {
+      start: 825.7,
+      end: 1242.575,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1242.575,
+      end: 1693.692,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1693.692,
+      end: 2135.967,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2135.967,
+      end: 2682.18,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.18,
+      end: 2731.729,
+      name: 'Outro',
+    },
+  ],
+}

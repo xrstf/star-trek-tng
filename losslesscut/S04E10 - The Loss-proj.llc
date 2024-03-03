@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E10 - The Loss.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 255.75549999999998,
+      name: 'Chapter 1',
+    },
+    {
+      start: 255.75549999999998,
+      end: 359.86,
+      name: 'Intro',
+    },
+    {
+      start: 359.86,
+      end: 679.888,
+      name: 'Chapter 2',
+    },
+    {
+      start: 679.888,
+      end: 1273.189,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1273.189,
+      end: 1893.225,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1893.225,
+      end: 2182.222,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2182.222,
+      end: 2679.9157052566484,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.9157052566484,
+      end: 2730.52,
+      name: 'Outro',
+    },
+  ],
+}

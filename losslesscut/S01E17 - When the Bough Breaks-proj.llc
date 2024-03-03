@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E17 - When the Bough Breaks.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 195.205941,
+      name: 'Chapter 1',
+    },
+    {
+      start: 195.205941,
+      end: 297.923,
+      name: 'Intro',
+    },
+    {
+      start: 297.923,
+      end: 723.64,
+      name: 'Chapter 2',
+    },
+    {
+      start: 723.64,
+      end: 1182.682,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1182.682,
+      end: 1636.135,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1636.135,
+      end: 2113.903,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2113.903,
+      end: 2685.308,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2685.308,
+      end: 2734.607,
+      name: 'Outro',
+    },
+  ],
+}

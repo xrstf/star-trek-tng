@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E11 - The Hunted.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 208.79191666666665,
+      name: 'Chapter 1',
+    },
+    {
+      start: 208.79191666666665,
+      end: 315.357,
+      name: 'Intro',
+    },
+    {
+      start: 315.357,
+      end: 596.513,
+      name: 'Chapter 2',
+    },
+    {
+      start: 596.513,
+      end: 1088.129,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1088.129,
+      end: 1597.513,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1597.513,
+      end: 2237.11,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2237.11,
+      end: 2679.177,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.177,
+      end: 2729.769,
+      name: 'Outro',
+    },
+  ],
+}

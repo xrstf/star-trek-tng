@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E03 - Interface.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 197.394028,
+      name: 'Chapter 1',
+    },
+    {
+      start: 197.394028,
+      end: 302.594,
+      name: 'Intro',
+    },
+    {
+      start: 302.594,
+      end: 518.768,
+      name: 'Chapter 2',
+    },
+    {
+      start: 518.768,
+      end: 868.076,
+      name: 'Chapter 3',
+    },
+    {
+      start: 868.076,
+      end: 1305.054,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1305.054,
+      end: 2076.575,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2076.575,
+      end: 2660.324,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2660.324,
+      end: 2710.75,
+      name: 'Outro',
+    },
+  ],
+}

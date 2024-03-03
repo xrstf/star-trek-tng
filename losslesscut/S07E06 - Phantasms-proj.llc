@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E06 - Phantasms.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 99.1435,
+      name: 'Chapter 1',
+    },
+    {
+      start: 99.1435,
+      end: 203.954,
+      name: 'Intro',
+    },
+    {
+      start: 203.954,
+      end: 841.382,
+      name: 'Chapter 2',
+    },
+    {
+      start: 841.382,
+      end: 1329.245,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1329.245,
+      end: 1650.816,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1650.816,
+      end: 1963.003,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1963.003,
+      end: 2644.433,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2644.433,
+      end: 2709.791,
+      name: 'Outro',
+    },
+  ],
+}

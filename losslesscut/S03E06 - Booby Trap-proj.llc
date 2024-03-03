@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E06 - Booby Trap.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 245.391217,
+      name: 'Chapter 1',
+    },
+    {
+      start: 245.391217,
+      end: 352.936,
+      name: 'Intro',
+    },
+    {
+      start: 352.936,
+      end: 942.442,
+      name: 'Chapter 2',
+    },
+    {
+      start: 942.442,
+      end: 1346.887,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1346.887,
+      end: 1867.199,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1867.199,
+      end: 2238.82,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2238.82,
+      end: 2681.596,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.596,
+      end: 2732.021,
+      name: 'Outro',
+    },
+  ],
+}

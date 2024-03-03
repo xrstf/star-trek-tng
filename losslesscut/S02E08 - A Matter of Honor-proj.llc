@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 2/S02E08 - A Matter of Honor.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 236.297933,
+      name: 'Chapter 1',
+    },
+    {
+      start: 236.297933,
+      end: 332.666,
+      name: 'Intro',
+    },
+    {
+      start: 332.666,
+      end: 788.246,
+      name: 'Chapter 2',
+    },
+    {
+      start: 788.246,
+      end: 1258.424,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1258.424,
+      end: 1780.112,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1780.112,
+      end: 2230.854,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2230.854,
+      end: 2678.134,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2678.134,
+      end: 2728.101,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E07 - Reunion.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 142.807929,
+      name: 'Chapter 1',
+    },
+    {
+      start: 142.807929,
+      end: 249.124,
+      name: 'Intro',
+    },
+    {
+      start: 249.124,
+      end: 697.03,
+      name: 'Chapter 2',
+    },
+    {
+      start: 697.03,
+      end: 1198.781,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1198.781,
+      end: 1691.982,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1691.982,
+      end: 2097.053,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2097.053,
+      end: 2682.013,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.013,
+      end: 2732.689,
+      name: 'Outro',
+    },
+  ],
+}

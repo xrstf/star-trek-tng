@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 2/S02E07 - Unnatural Selection.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 140.71378288072418,
+      name: 'Chapter 1',
+    },
+    {
+      start: 140.71378288072418,
+      end: 236.862,
+      name: 'Intro',
+    },
+    {
+      start: 236.862,
+      end: 654.279,
+      name: 'Chapter 2',
+    },
+    {
+      start: 654.279,
+      end: 1007.34,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1007.34,
+      end: 1567.483,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1567.483,
+      end: 2145.644,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2145.644,
+      end: 2663.87,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2663.87,
+      end: 2713.962,
+      name: 'Outro',
+    },
+  ],
+}

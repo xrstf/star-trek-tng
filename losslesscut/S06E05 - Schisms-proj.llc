@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E05 - Schisms.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 266.487161,
+      name: 'Chapter 1',
+    },
+    {
+      start: 266.487161,
+      end: 372.956,
+      name: 'Intro',
+    },
+    {
+      start: 372.956,
+      end: 747.08,
+      name: 'Chapter 2',
+    },
+    {
+      start: 747.08,
+      end: 1141.682,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1141.682,
+      end: 1687.853,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1687.853,
+      end: 2218.383,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2218.383,
+      end: 2674.672,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2674.672,
+      end: 2739.779,
+      name: 'Outro',
+    },
+  ],
+}

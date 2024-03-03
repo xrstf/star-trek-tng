@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 5/S05E07 - Unification (Part I).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 99.76633333333332,
+      name: 'Chapter 1',
+    },
+    {
+      start: 99.76633333333332,
+      end: 204.246,
+      name: 'Intro',
+    },
+    {
+      start: 204.246,
+      end: 938.229,
+      name: 'Chapter 2',
+    },
+    {
+      start: 938.229,
+      end: 1409.074,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1409.074,
+      end: 1859.858,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1859.858,
+      end: 2195.985,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2195.985,
+      end: 2697.445,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2697.445,
+      end: 2747.62,
+      name: 'Outro',
+    },
+  ],
+}

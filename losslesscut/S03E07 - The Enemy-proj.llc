@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E07 - The Enemy.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 276.583473,
+      name: 'Chapter 1',
+    },
+    {
+      start: 276.583473,
+      end: 383.717,
+      name: 'Intro',
+    },
+    {
+      start: 383.717,
+      end: 781.114,
+      name: 'Chapter 2',
+    },
+    {
+      start: 781.114,
+      end: 1107.315,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1107.315,
+      end: 1702.576,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1702.576,
+      end: 2024.481,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2024.481,
+      end: 2678.843,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2678.843,
+      end: 2729.519,
+      name: 'Outro',
+    },
+  ],
+}

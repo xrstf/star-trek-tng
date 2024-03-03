@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: "../../Season 4/S04E16 - Galaxy's Child.mkv",
+  cutSegments: [
+    {
+      start: 0,
+      end: 227.76920833333332,
+      name: 'Chapter 1',
+    },
+    {
+      start: 227.76920833333332,
+      end: 331.915,
+      name: 'Intro',
+    },
+    {
+      start: 331.915,
+      end: 848.639,
+      name: 'Chapter 2',
+    },
+    {
+      start: 848.639,
+      end: 1260.468,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1260.468,
+      end: 1811.268,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1811.268,
+      end: 2286.493,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2286.493,
+      end: 2682.597,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.597,
+      end: 2733.231,
+      name: 'Outro',
+    },
+  ],
+}

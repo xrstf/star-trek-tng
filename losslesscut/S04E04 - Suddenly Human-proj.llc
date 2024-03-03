@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E04 - Suddenly Human.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 168.6685,
+      name: 'Chapter 1',
+    },
+    {
+      start: 168.6685,
+      end: 275.901,
+      name: 'Intro',
+    },
+    {
+      start: 275.901,
+      end: 661.661,
+      name: 'Chapter 2',
+    },
+    {
+      start: 661.661,
+      end: 1324.907,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1324.907,
+      end: 1677.009,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1677.009,
+      end: 2212.377,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2212.377,
+      end: 2679.5463774173695,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2679.5463774173695,
+      end: 2730.019,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E07 - Lonely Among Us.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 254.954613,
+      name: 'Chapter 1',
+    },
+    {
+      start: 254.954613,
+      end: 356.731,
+      name: 'Intro',
+    },
+    {
+      start: 356.731,
+      end: 799.007,
+      name: 'Chapter 2',
+    },
+    {
+      start: 799.007,
+      end: 1216.549,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1216.549,
+      end: 1673.547,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1673.547,
+      end: 2109.19,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2109.19,
+      end: 2683.181,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2683.181,
+      end: 2732.272,
+      name: 'Outro',
+    },
+  ],
+}

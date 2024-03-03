@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E03 - Brothers.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 172.92274999999998,
+      name: 'Chapter 1',
+    },
+    {
+      start: 172.92274999999998,
+      end: 279.196,
+      name: 'Intro',
+    },
+    {
+      start: 279.196,
+      end: 621.204,
+      name: 'Chapter 2',
+    },
+    {
+      start: 621.204,
+      end: 981.481,
+      name: 'Chapter 3',
+    },
+    {
+      start: 981.481,
+      end: 1648.564,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1648.564,
+      end: 2180.512,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2180.512,
+      end: 2680.1050510505684,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.1050510505684,
+      end: 2730.645,
+      name: 'Outro',
+    },
+  ],
+}

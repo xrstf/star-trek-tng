@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E15 - Lower Decks.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 141.427143,
+      name: 'Chapter 1',
+    },
+    {
+      start: 141.427143,
+      end: 246.997,
+      name: 'Intro',
+    },
+    {
+      start: 246.997,
+      end: 820.278,
+      name: 'Chapter 2',
+    },
+    {
+      start: 820.278,
+      end: 1081.581,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1081.581,
+      end: 1613.779,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1613.779,
+      end: 2183.64,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2183.64,
+      end: 2659.157,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.157,
+      end: 2709.707,
+      name: 'Outro',
+    },
+  ],
+}

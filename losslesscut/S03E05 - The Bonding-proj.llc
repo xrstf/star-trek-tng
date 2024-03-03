@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E05 - The Bonding.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 88.527099,
+      name: 'Chapter 1',
+    },
+    {
+      start: 88.527099,
+      end: 195.445,
+      name: 'Intro',
+    },
+    {
+      start: 195.445,
+      end: 569.736,
+      name: 'Chapter 2',
+    },
+    {
+      start: 569.736,
+      end: 1316.232,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1316.232,
+      end: 1609.233,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1609.233,
+      end: 1957.122,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1957.122,
+      end: 2682.305,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2682.305,
+      end: 2732.647,
+      name: 'Outro',
+    },
+  ],
+}

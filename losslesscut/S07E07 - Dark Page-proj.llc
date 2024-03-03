@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E07 - Dark Page.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 255.989891,
+      name: 'Chapter 1',
+    },
+    {
+      start: 255.989891,
+      end: 360.861,
+      name: 'Intro',
+    },
+    {
+      start: 360.861,
+      end: 897.563,
+      name: 'Chapter 2',
+    },
+    {
+      start: 897.563,
+      end: 1226.767,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1226.767,
+      end: 1721.053,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1721.053,
+      end: 2076.283,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2076.283,
+      end: 2656.404,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2656.404,
+      end: 2706.871,
+      name: 'Outro',
+    },
+  ],
+}

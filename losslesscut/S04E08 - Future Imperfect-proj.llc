@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 4/S04E08 - Future Imperfect.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 260.7187916666667,
+      name: 'Chapter 1',
+    },
+    {
+      start: 260.7187916666667,
+      end: 366.992,
+      name: 'Intro',
+    },
+    {
+      start: 366.992,
+      end: 969.01,
+      name: 'Chapter 2',
+    },
+    {
+      start: 969.01,
+      end: 1487.236,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1487.236,
+      end: 1977.726,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1977.726,
+      end: 2326.616,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2326.616,
+      end: 2681.179,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2681.179,
+      end: 2731.229,
+      name: 'Outro',
+    },
+  ],
+}

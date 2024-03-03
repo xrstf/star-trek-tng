@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 5/S05E16 - Ethics.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 175.56864,
+      name: 'Chapter 1',
+    },
+    {
+      start: 175.56864,
+      end: 281.156,
+      name: 'Intro',
+    },
+    {
+      start: 281.156,
+      end: 533.45,
+      name: 'Chapter 2',
+    },
+    {
+      start: 533.45,
+      end: 1095.678,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1095.678,
+      end: 1389.013,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1389.013,
+      end: 1863.737,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1863.737,
+      end: 2689.478,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2689.478,
+      end: 2739.821,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E25 - Conspiracy.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 243.520067,
+      name: 'Chapter 1',
+    },
+    {
+      start: 243.520067,
+      end: 345.679,
+      name: 'Intro',
+    },
+    {
+      start: 345.679,
+      end: 853.853,
+      name: 'Chapter 2',
+    },
+    {
+      start: 853.853,
+      end: 1105.146,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1105.146,
+      end: 1545.586,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1545.586,
+      end: 1973.889,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1973.889,
+      end: 2686.184,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2686.184,
+      end: 2735.9,
+      name: 'Outro',
+    },
+  ],
+}

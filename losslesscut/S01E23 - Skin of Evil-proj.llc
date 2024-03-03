@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E23 - Skin of Evil.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 182.262761,
+      name: 'Chapter 1',
+    },
+    {
+      start: 182.262761,
+      end: 284.743,
+      name: 'Intro',
+    },
+    {
+      start: 284.743,
+      end: 611.111,
+      name: 'Chapter 2',
+    },
+    {
+      start: 611.111,
+      end: 1138.763,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1138.763,
+      end: 1591.799,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1591.799,
+      end: 1937.31,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1937.31,
+      end: 2680.72,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.72,
+      end: 2730.436,
+      name: 'Outro',
+    },
+  ],
+}

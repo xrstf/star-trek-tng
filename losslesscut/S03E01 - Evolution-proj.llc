@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 3/S03E01 - Evolution.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 213.739005,
+      name: 'Chapter 1',
+    },
+    {
+      start: 213.739005,
+      end: 320.821,
+      name: 'Intro',
+    },
+    {
+      start: 320.821,
+      end: 843.301,
+      name: 'Chapter 2',
+    },
+    {
+      start: 843.301,
+      end: 1219.135,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1219.135,
+      end: 1860.442,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1860.442,
+      end: 2246.327,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2246.327,
+      end: 2680.887,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2680.887,
+      end: 2731.396,
+      name: 'Outro',
+    },
+  ],
+}

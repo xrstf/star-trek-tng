@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 6/S06E24 - Second Chances.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 256.04385,
+      name: 'Chapter 1',
+    },
+    {
+      start: 256.04385,
+      end: 361.862,
+      name: 'Intro',
+    },
+    {
+      start: 361.862,
+      end: 719.052,
+      name: 'Chapter 2',
+    },
+    {
+      start: 719.052,
+      end: 1117.992,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1117.992,
+      end: 1812.102,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1812.102,
+      end: 2230.979,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2230.979,
+      end: 2659.157,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.157,
+      end: 2709.54,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 2/S02E15 - Pen Pals.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 257.920911,
+      name: 'Chapter 1',
+    },
+    {
+      start: 257.920911,
+      end: 354.521,
+      name: 'Intro',
+    },
+    {
+      start: 354.521,
+      end: 804.554,
+      name: 'Chapter 2',
+    },
+    {
+      start: 804.554,
+      end: 1138.429,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1138.429,
+      end: 1589.088,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1589.088,
+      end: 2062.519,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2062.519,
+      end: 2663.202,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2663.202,
+      end: 2728.643,
+      name: 'Outro',
+    },
+  ],
+}

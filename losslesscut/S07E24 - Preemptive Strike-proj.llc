@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E24 - Preemptive Strike.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 167.207724,
+      name: 'Chapter 1',
+    },
+    {
+      start: 167.207724,
+      end: 271.897,
+      name: 'Intro',
+    },
+    {
+      start: 271.897,
+      end: 678.887,
+      name: 'Chapter 2',
+    },
+    {
+      start: 678.887,
+      end: 1325.491,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1325.491,
+      end: 1697.196,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1697.196,
+      end: 2184.432,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2184.432,
+      end: 2657.405,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2657.405,
+      end: 2708.289,
+      name: 'Outro',
+    },
+  ],
+}

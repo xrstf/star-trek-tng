@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E05 - Gambit (Part II).mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 200.03316666666666,
+      name: 'Chapter 1',
+    },
+    {
+      start: 200.03316666666666,
+      end: 304.221,
+      name: 'Intro',
+    },
+    {
+      start: 304.221,
+      end: 705.997,
+      name: 'Chapter 2',
+    },
+    {
+      start: 705.997,
+      end: 1036.953,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1036.953,
+      end: 1567.066,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1567.066,
+      end: 1914.496,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1914.496,
+      end: 2658.656,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2658.656,
+      end: 2709.54,
+      name: 'Outro',
+    },
+  ],
+}

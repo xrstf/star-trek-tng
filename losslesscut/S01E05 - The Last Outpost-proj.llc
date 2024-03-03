@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 1/S01E05 - The Last Outpost.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 235.426547,
+      name: 'Chapter 1',
+    },
+    {
+      start: 235.426547,
+      end: 336.503,
+      name: 'Intro',
+    },
+    {
+      start: 336.503,
+      end: 922.839,
+      name: 'Chapter 2',
+    },
+    {
+      start: 922.839,
+      end: 1316.232,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1316.232,
+      end: 1753.669,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1753.669,
+      end: 2094.009,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2094.009,
+      end: 2686.017,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2686.017,
+      end: 2735.275,
+      name: 'Outro',
+    },
+  ],
+}

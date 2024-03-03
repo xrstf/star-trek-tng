@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: "../../Season 7/S07E20 - Journey's End.mkv",
+  cutSegments: [
+    {
+      start: 0,
+      end: 112.398218,
+      name: 'Chapter 1',
+    },
+    {
+      start: 112.398218,
+      end: 218.26,
+      name: 'Intro',
+    },
+    {
+      start: 218.26,
+      end: 611.903,
+      name: 'Chapter 2',
+    },
+    {
+      start: 611.903,
+      end: 1025.024,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1025.024,
+      end: 1399.44,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1399.44,
+      end: 1854.478,
+      name: 'Chapter 5',
+    },
+    {
+      start: 1854.478,
+      end: 2644.267,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2644.267,
+      end: 2709.832,
+      name: 'Outro',
+    },
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  version: 1,
+  mediaFileName: '../../Season 7/S07E16 - Thine Own Self.mkv',
+  cutSegments: [
+    {
+      start: 0,
+      end: 181.323441,
+      name: 'Chapter 1',
+    },
+    {
+      start: 181.323441,
+      end: 287.287,
+      name: 'Intro',
+    },
+    {
+      start: 287.287,
+      end: 516.266,
+      name: 'Chapter 2',
+    },
+    {
+      start: 516.266,
+      end: 1080.246,
+      name: 'Chapter 3',
+    },
+    {
+      start: 1080.246,
+      end: 1458.332,
+      name: 'Chapter 4',
+    },
+    {
+      start: 1458.332,
+      end: 2046.795,
+      name: 'Chapter 5',
+    },
+    {
+      start: 2046.795,
+      end: 2659.115,
+      name: 'Chapter 6',
+    },
+    {
+      start: 2659.115,
+      end: 2709.707,
+      name: 'Outro',
+    },
+  ],
+}
