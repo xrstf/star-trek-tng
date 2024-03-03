@@ -42,6 +42,10 @@ So I manually went to add this marker to every episode:
 * Nagivate to the moment the intro starts.
 * Split the current segment. Name the first part "Chapter 1" and the intro part "Intro".
 * Rename the last segment to "Outro".
+* Enable audio waveform in lossless-cut and zoom to the beginning of the outro segment.
+  Ensure that the chapter does not start later (~ 30 episodes in total had such outros,
+  where you would hear just a half a second or so of the outro). I manually moved the
+  outro beginnings forward in those episodes a bit.
 
 This left me with 1 `.llc` file per `.mkv` file. All of these are in `losslesscut/`.
 
