@@ -15,7 +15,7 @@ I like to watch Star Trek. It's my kind of ASMR while working or having a nap on
 couch. Star Trek is a mostly quiet SciFi show, perfect for unobtrusive background noise.
 
 However, the _intros_ are very, very loud. And if you're binge watching, also kind of
-repetitive. But most importantly they are distractiling loud, with the Enterprise swooshing
+repetitive. But most importantly they are distractingly loud, with the Enterprise swooshing
 and zooming through space and the music swelling more and more in the background.
 
 To add insult to injury, Netflix's intro-skip functionality was, for some unknown reason,
